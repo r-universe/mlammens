@@ -1,10 +1,10 @@
 [
   {
-    "package": "occUncertain",
+    "package": "spThin",
     "oncran": true
   },
   {
-    "package": "spThin",
+    "package": "occUncertain",
     "oncran": true
   }
 ]
