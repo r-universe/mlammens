@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "spThin"]
-	path = spThin
-	url = https://github.com/mlammens/spthin
-	shallow = true
-	registered = true
 [submodule "occUncertain"]
 	path = occUncertain
 	url = https://github.com/mlammens/occuncertain
+	shallow = true
+	registered = true
+[submodule "spThin"]
+	path = spThin
+	url = https://github.com/mlammens/spthin
 	shallow = true
 	registered = true
